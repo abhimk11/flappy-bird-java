@@ -41,7 +41,7 @@ You can download Java from the official [Oracle website](https://www.oracle.com/
 
 1. **Clone or Download** the repository to your local machine.
 2. **Open** the project in your favorite Java IDE (e.g., IntelliJ IDEA, Eclipse).
-3. **Run the Application**: Once the project is open, run the `Main.java` file (or the main class that starts the game).
+3. **Run the Application**: Once the project is open, run the `App.java` file (or the main class that starts the game).
 
 ---
 
